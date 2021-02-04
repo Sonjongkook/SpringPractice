@@ -1,6 +1,7 @@
 package jongkook.hellospring.repository;
 
 import jongkook.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
